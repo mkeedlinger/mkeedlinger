@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a simple tech enthusiast and programmer.
+
+I mostly use GitLab, so this can look pretty emtpy
+
 <!--
 **mkeedlinger/mkeedlinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
